@@ -1,0 +1,23 @@
+# Archivos de configuración de .NET
+appsettings.json
+appsettings.Development.json
+
+# Archivos de compilación de .NET
+bin/
+obj/
+
+# Archivos de log
+*.log
+
+# Archivos de depuración
+*.pdb
+
+# Archivos de compilación
+*.csproj.user
+*.csproj.vspscc
+
+# Archivos de compilacion de Terraform
+*.tfstate
+/.terraform
+*.tfstate.*
+*.tfvars
